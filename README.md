@@ -4,6 +4,8 @@ Roda o DOOM (versão shareware de 1993) dentro de uma **Exploração em formato 
 
 Não instala nada, não altera a propriedade e não envia nenhum dado para o GA.
 
+<img width="1435" height="810" alt="image" src="https://github.com/user-attachments/assets/3b53ebbe-f907-4d1b-acb5-edb77600925c" />
+
 ## Como usar
 
 1. No GA4, abra **Explorar › Formato livre**.
